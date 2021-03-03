@@ -20,7 +20,8 @@
         "build": "encore production --progress"
     },
     "dependencies": {
-        "vue": "^2.6.12"
+        "vue": "^2.6.12",
+        "vue-router": "^3.5.1"
     },
     "browserslist": [
         "> 0.5%",
