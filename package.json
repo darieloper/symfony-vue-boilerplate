@@ -21,5 +21,11 @@
     },
     "dependencies": {
         "vue": "^2.6.12"
-    }
+    },
+    "browserslist": [
+        "> 0.5%",
+        "last 2 versions",
+        "Firefox ESR",
+        "not dead"
+    ]
 }
